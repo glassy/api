@@ -1,0 +1,32 @@
+[
+    { "id": 0, "name": "傅靜凡", "pt":"綠黨", "place":"澎湖縣","loc": "馬公區","join":"縣議員",
+      "img":"http://ext.pimg.tw/antigamble2014/1403145616-2080135968_m.jpg"},
+
+    { "id": 1, "name": "羅岳峰", "pt":"綠黨", "place":"桃園市", "loc": "桃園區", "join":"市議員",
+      "img": "https://scontent-a-pao.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/10552394_758537830878561_2753608292935298480_n.jpg?oh=e8db0555b5dbebf51a22e22ea9814282&oe=546BE6F8",
+      "href": "https://www.facebook.com/greentaiwanrober" },
+
+    { "id": 2, "name": "王浩宇", "pt":"綠黨", "place":"桃園市", "loc": "中壢區", "join":"市議員",
+      "img": "http://www.greenparty.org.tw/sites/www.greenparty.org.tw/files/image/people/10432239_4416185300852_241888792_n_1.jpg?1403090690",
+      "href": "http://www.greenparty.org.tw/taxonomy/term/7" },
+
+    { "id": 3, "name": "湯琳翔", "pt":"綠黨", "place":"桃園市", "loc": "平鎮區", "join":"市議員",
+      "img":"https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xpa1/t1.0-9/10527268_559400594171716_5567739429988365021_n.jpg",
+      "href": "https://www.facebook.com/guardourfuture?fref=photo"},
+
+    { "id": 4, "name": "張明麗", "pt":"綠黨", "place":"新北市", "loc": "七堵區","join":"市議員",
+      "img":"http://i1148.photobucket.com/albums/o570/Ellen_Chang/986826_856151961079050_1094631525_n_zps37f63520.jpg",
+      "href": "http://ellen1105.pixnet.net/blog/post/183879549-%E8%B2%AC%E4%BB%BB%E4%BE%86%E4%BA%86%EF%BC%8C%E6%89%BF%E6%93%94%E8%B5%B7%E4%BE%86%EF%BC%81%E2%80%94%E7%B6%A0%E9%BB%A8%E5%9F%BA%E9%9A%86%E5%B8%82%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8"},
+  
+    { "id": 5, "name": "王鐘銘", "pt":"綠黨", "place":"新北市","loc": "淡水區", "join":"市議員",
+      "img": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-xfp1/t1.0-9/10367590_10152117666682308_7802238503509173900_n.jpg",
+      "href": "https://www.facebook.com/mingwangx"  },
+
+    { "id": 6, "name": "楊木萬", "pt":"綠黨", "place":"新北市","loc": "樹林區","join":"市議員",
+      "img": "http://earthdefenseforce.files.wordpress.com/2011/11/dm.jpg"},
+    { "id": 7, "name": "楊志翔", "pt":"綠黨", "place":"新竹市","loc": "東區","join":"市議員",
+      "img": "http://buzzorange.com/wp-content/uploads/2014/09/yang.jpg",
+      "href": "http://buzzorange.com/2014/09/09/young-councillor-in-hsinchu/"},
+    { "id": 8, "name": "梁益誌", "pt":"綠黨", "place":"高雄市","loc": "三民區","join":"市議員",
+      "img": "http://mypaper.pchome.com.tw/show/article/christine1511/A1327405663"}
+  ]
